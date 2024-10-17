@@ -15,4 +15,4 @@ Frontend-Devloper
 
 <br>
 
-[🔗Profile 보러가기](https://maddening-antimony-d21.notion.site/s-Portfolio-00dc4406372a4c2b8f03721010f887d8?pvs=4)
+ [🔗Profile 보러가기(Click)](https://maddening-antimony-d21.notion.site/s-Portfolio-00dc4406372a4c2b8f03721010f887d8?pvs=4)
