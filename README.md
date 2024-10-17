@@ -11,3 +11,8 @@ Frontend-Devloper
 ![Java Badge](https://img.shields.io/badge/-Java-5382a1?style=flat-square&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![gitlab Badge](https://img.shields.io/badge/-gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+
+<br>
+
+[Profile 보러가기](https://maddening-antimony-d21.notion.site/s-Portfolio-00dc4406372a4c2b8f03721010f887d8?pvs=4)
